@@ -14,7 +14,8 @@ public class GitDemo1 {
      */
     public static void main(String[] args) {
 	System.out.println("Hello World for Story ID 7333385!");
-	System.out.println("Hello World for Story ID 7333385! Second one.");
+	System.out.println("Hello World for Story ID 7333385! Second two.");
+	System.out.println("Hello World for Story ID 7333385! Third.");
     }
 
 }
